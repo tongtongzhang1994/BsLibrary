@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- path可以为空，表示指定目录下的所有文件、文件夹都可以被共享。 -->
+    <external-path path="" name="download"/>
+
+</paths>
